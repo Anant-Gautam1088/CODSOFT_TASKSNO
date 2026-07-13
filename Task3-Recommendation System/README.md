@@ -28,10 +28,6 @@ A content-based Movie Recommendation System built using Python, Flask, Pandas, a
 - Cosine Similarity
 - Text Preprocessing
 
-## Dataset
-
-TMDB 5000 Movies Dataset
-
 ## Project Structure
 
 ```
