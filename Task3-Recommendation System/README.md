@@ -52,7 +52,15 @@ Movie-Recommendation-System/
 └── static/
     └── style.css
 ```
+## Dataset
 
+This project uses the TMDB 5000 Movies Dataset.
+
+Download the following files and place them in the project root directory before running the project:
+
+- tmdb_5000_movies.csv
+- tmdb_5000_credits.csv
+  
 ## Installation
 
 ```bash
